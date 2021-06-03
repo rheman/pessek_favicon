@@ -1,0 +1,23 @@
+{
+    "name": "pessek/pessek_favicon",
+    "description": "Override the default Elgg favicon.",
+    "type": "elgg-plugin",
+    "keywords": [
+        "elgg",
+        "plugin"
+    ],
+    "license": "proprietary",
+    "authors": [
+        {
+		"name": "Hermand PESSEK",
+		"email": "rhemandaddy@gmail.com"
+        }
+    ],
+    "extra": {
+		"installer-name": "pessek_favicon"
+    },
+    "require": {
+		"php": ">=7.1",
+		"composer/installers": "~1.0"
+    }
+}
